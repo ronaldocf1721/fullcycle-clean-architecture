@@ -13,7 +13,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **SWC**: Transpilador TypeScript altamente eficiente.
 - **Nodemon**: Utilitário para reiniciar a aplicação automaticamente durante o desenvolvimento.
 
-## 1. Use Cases para Product
+## Desafio 1. Use Cases para Product
 
 #### Descrição
 
@@ -27,7 +27,7 @@ Implemente as operações de criação, busca, listagem e atualização para a e
 
 ---
 
-## 2. API de Products
+## Desafio 2. API de Products
 
 #### Descrição
 
@@ -41,7 +41,7 @@ Implemente uma API para listar os produtos da base de dados, similar à implemen
 
 ---
 
-## 3. Notification Pattern em Products
+## Desafio 3. Notification Pattern em Products
 
 #### Descrição
 
@@ -56,7 +56,7 @@ O padrão de notificação (Notification Pattern) é utilizado para acumular err
 
 ---
 
-## 4. Validação de Products
+## Desafio 4. Validação de Products
 
 #### Descrição
 
