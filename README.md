@@ -1,17 +1,18 @@
 # Curso Full Cycle 3.0 - Clean Architecture
 
-## Tecnologias Utilizadas
+## Dependências
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes dependências:
 
-- **Node.js**: Ambiente de execução de JavaScript no servidor.
-- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
-- **Sequelize**: ORM para Node.js que facilita a interação com o banco de dados.
-- **Express**: Framework web minimalista para construir a API.
-- **Jest**: Framework de testes para JavaScript, utilizado para realizar testes unitários e de integração.
-- **Supertest**: Biblioteca para fazer testes de APIs HTTP.
-- **SWC**: Transpilador TypeScript altamente eficiente.
-- **Nodemon**: Utilitário para reiniciar a aplicação automaticamente durante o desenvolvimento.
+- **Bibliotecas e Frameworks**:
+  - `Node.js`: Ambiente de execução de JavaScript no servidor.
+  - `TypeScript`: Superset do JavaScript que adiciona tipagem estática ao código.
+  - `Sequelize`: ORM para Node.js que facilita a interação com o banco de dados.
+  - `Express`: Framework web minimalista para construir a API.
+  - `Jest`: Framework de testes para JavaScript, utilizado para realizar testes unitários e de integração.
+  - `Supertest`: Biblioteca para fazer testes de APIs HTTP.
+  - `SWC`: Transpilador TypeScript altamente eficiente.
+  - `Nodemon`: Utilitário para reiniciar a aplicação automaticamente durante o desenvolvimento.
 
 ## Desafio 1: Use Cases para Product
 
