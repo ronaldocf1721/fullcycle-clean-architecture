@@ -1,19 +1,20 @@
 # Curso Full Cycle 3.0 - Clean Architecture
 
-## Tecnologias Utilizadas
+## Dependências
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes dependências:
 
-- **Node.js**: Ambiente de execução de JavaScript no servidor.
-- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
-- **Sequelize**: ORM para Node.js que facilita a interação com o banco de dados.
-- **Express**: Framework web minimalista para construir a API.
-- **Jest**: Framework de testes para JavaScript, utilizado para realizar testes unitários e de integração.
-- **Supertest**: Biblioteca para fazer testes de APIs HTTP.
-- **SWC**: Transpilador TypeScript altamente eficiente.
-- **Nodemon**: Utilitário para reiniciar a aplicação automaticamente durante o desenvolvimento.
+- **Bibliotecas e Frameworks**:
+  - `Node.js`: Ambiente de execução de JavaScript no servidor.
+  - `TypeScript`: Superset do JavaScript que adiciona tipagem estática ao código.
+  - `Sequelize`: ORM para Node.js que facilita a interação com o banco de dados.
+  - `Express`: Framework web minimalista para construir a API.
+  - `Jest`: Framework de testes para JavaScript, utilizado para realizar testes unitários e de integração.
+  - `Supertest`: Biblioteca para fazer testes de APIs HTTP.
+  - `SWC`: Transpilador TypeScript altamente eficiente.
+  - `Nodemon`: Utilitário para reiniciar a aplicação automaticamente durante o desenvolvimento.
 
-## 1. Use Cases para Product
+## Desafio 1: Use Cases para Product
 
 #### Descrição
 
@@ -27,7 +28,7 @@ Implemente as operações de criação, busca, listagem e atualização para a e
 
 ---
 
-## 2. API de Products
+## Desafio 2: API de Products
 
 #### Descrição
 
@@ -41,7 +42,7 @@ Implemente uma API para listar os produtos da base de dados, similar à implemen
 
 ---
 
-## 3. Notification Pattern em Products
+## Desafio 3: Notification Pattern em Products
 
 #### Descrição
 
@@ -56,7 +57,7 @@ O padrão de notificação (Notification Pattern) é utilizado para acumular err
 
 ---
 
-## 4. Validação de Products
+## Desafio 4: Validação de Products
 
 #### Descrição
 
